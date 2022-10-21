@@ -1,28 +1,15 @@
 
 {
-    "extends": "istanbul-instrumenter-loader",
-    "report-dir": "cypress-coverage",
+    "extends": "@istanbuljs/nyc-config-babel",
     "all": true,
-    "include": ["src"],
     "exclude": [
-        "**/coverage/*",
-        "app/main.ts",
-        "main.ts",
-        "angular.webpack.js",
-        "build.js",
-        "cypress.config.ts",
-        "version.js",
-        "cypress/**",
-        "**/environments/*",
-        "**/*.cy.ts",
-        "**/*.module.ts",
-        "**/index.ts",
-        "instrumented/**"
+      "**/cypress/**",
+      "**/coverage/**",
+      "karma.conf.js",
+      "src/test.ts",
+      "**/*.spec.ts"
     ],
     "reporter": [
-        "lcov",
-        "text",
-        "html"
-    ],
-    "excludeAfterRemap":false 
+      "html"
+    ]
 }
