@@ -1,0 +1,28 @@
+
+{
+    "extends": "istanbul-instrumenter-loader",
+    "report-dir": "cypress-coverage",
+    "all": true,
+    "include": ["src"],
+    "exclude": [
+        "**/coverage/*",
+        "app/main.ts",
+        "main.ts",
+        "angular.webpack.js",
+        "build.js",
+        "cypress.config.ts",
+        "version.js",
+        "cypress/**",
+        "**/environments/*",
+        "**/*.cy.ts",
+        "**/*.module.ts",
+        "**/index.ts",
+        "instrumented/**"
+    ],
+    "reporter": [
+        "lcov",
+        "text",
+        "html"
+    ],
+    "excludeAfterRemap":false 
+}

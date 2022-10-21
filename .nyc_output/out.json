@@ -1,1 +1,101 @@
-{}
+{
+  "C:/Users/96171/calculate/src/favicon.ico": {
+    "path": "C:/Users/96171/calculate/src/favicon.ico",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "C:/Users/96171/calculate/src/index.html": {
+    "path": "C:/Users/96171/calculate/src/index.html",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "C:/Users/96171/calculate/src/main.ts": {
+    "path": "C:/Users/96171/calculate/src/main.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "C:/Users/96171/calculate/src/polyfills.ts": {
+    "path": "C:/Users/96171/calculate/src/polyfills.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "C:/Users/96171/calculate/src/styles.scss": {
+    "path": "C:/Users/96171/calculate/src/styles.scss",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "C:/Users/96171/calculate/src/test.ts": {
+    "path": "C:/Users/96171/calculate/src/test.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "C:/Users/96171/calculate/src/app/add.ts": {
+    "path": "C:/Users/96171/calculate/src/app/add.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "C:/Users/96171/calculate/src/app/app.component.html": {
+    "path": "C:/Users/96171/calculate/src/app/app.component.html",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "C:/Users/96171/calculate/src/app/app.component.scss": {
+    "path": "C:/Users/96171/calculate/src/app/app.component.scss",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "C:/Users/96171/calculate/src/app/app.component.spec.ts": {
+    "path": "C:/Users/96171/calculate/src/app/app.component.spec.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "C:/Users/96171/calculate/src/app/app.component.ts": {
+    "path": "C:/Users/96171/calculate/src/app/app.component.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  }
+}
