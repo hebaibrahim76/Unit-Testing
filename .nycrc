@@ -1,15 +1,14 @@
 
 {
-    "extends": "@istanbuljs/nyc-config-babel",
+  "extends": "istanbul-instrumenter-loader",
     "all": true,
     "exclude": [
-      "**/cypress/**",
-      "**/coverage/**",
       "karma.conf.js",
       "src/test.ts",
       "**/*.spec.ts"
     ],
     "reporter": [
       "html"
-    ]
+    ],
+    "excludeAfterRemap":false 
 }
